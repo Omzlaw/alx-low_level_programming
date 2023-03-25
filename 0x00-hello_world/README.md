@@ -1,1 +1,1 @@
-C programming language biginner practice
+C programming language beginner practice
