@@ -2,9 +2,10 @@
 
 
 /**
- * puts2 - Prints every other character of a string. 
+ * puts2 - Prints every other character. 
  * @str: The string containing characters.
  */
+
 void puts2(char *str)
 {
 	int index = 0, len = 0;
