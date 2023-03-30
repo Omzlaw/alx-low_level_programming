@@ -3,7 +3,6 @@
 /**
  * strcat - Appends the string pointed to by @src,
  * 	    to the end of the string pointed to by @dest
- * 	    including the terminating null byte
  * @dest: A pointer to the string to be concatenated upon.
  * @src: The source string to be appended to @dest.
  *
