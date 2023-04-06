@@ -12,6 +12,8 @@
 int factorial(int n)
 {
 
+	int answer;
+
 	if (n < 0)
 		return (-1);
 
