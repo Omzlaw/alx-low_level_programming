@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 
 	for (numCount = 1; numCount < argc; numCount++)
 	{
-		for (digitCount = 0; argv[num][digitCount]; digitCount++)
+		for (digitCount = 0; argv[numCount]; digitCount++)
 		{
 			if (argv[numCount][digitCount] < '0' || argv[numCount][digitCount] > '9')
 			{
